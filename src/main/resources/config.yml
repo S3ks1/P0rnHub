@@ -1,0 +1,24 @@
+join-message:
+  lines:
+    - "&8&m----------------------------------------"
+    - "&7Welcome, &c%player% &7to &4&lPornHub Network!"
+    - ""
+    - "&7» &fStore&7: &cstore.skidder.com"
+    - "&7» &fDiscord&7: &cdiscord.gg/skidder"
+    - "&7» &fTeamspeak&7: &cts3.skidder.com"
+    - ""
+    - "&7&oUse the server selector to travel between servers!"
+    - "&8&m----------------------------------------"
+
+join-sound:
+  sound: "CAT_MEOW"
+
+commands:
+  discord:
+    - "&bDiscord&7: &fdiscord.gg/skidder"
+  teamspeak:
+    - "&bTeamspeak&7: &fts3.skidder.com"
+  twitter:
+    - "&bTwitter&7: &ftwitter.com/skidder"
+  telegram:
+    - "&bTelegram&7: &ft.me/skidders"

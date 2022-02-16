@@ -1,0 +1,19 @@
+booleans:
+  commands:
+    discord: true
+    teamspeak: true
+    twitter: true
+    telegram: true
+  world:
+    no-damage: true
+    no-drop: true
+    no-blocks: true
+    no-break-blocks: true
+    no-feed: true
+    no-spawn-mobs: true
+  listeners:
+    join-message: true
+    sound: true
+  features:
+    scoreboard: true
+    tablist: true
